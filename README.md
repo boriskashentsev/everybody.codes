@@ -1,2 +1,5 @@
 # everybody.codes
-Solving another code challenges
+Solving some code challenges
+
+## Links
+* [everybody.codes](https://everybody.codes/) web page
