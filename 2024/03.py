@@ -36,10 +36,6 @@ def digging(land, dx, dy):
     result += reduce(lambda x,y: x+y, line)
   return result
 
-land = []
-for line in lines:
-  land += [list(map(lambda x: 0 if x=='.' else 1, line))]
-
 print('Part 1: ', digging(land,[1, 0, -1, 0],[0, 1, 0, -1]))
 
 # Part 2
