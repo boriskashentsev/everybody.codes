@@ -1,6 +1,3 @@
-from functools import reduce
-from math import ceil, floor
-
 # Part 1
 
 def leveling(nails):
